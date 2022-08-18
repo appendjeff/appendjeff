@@ -1,5 +1,5 @@
 ### Hey there
 
 - 💻 I’m currently working on the Easel product at Teachers Pay Teachers.
-- 🌱 I’m currently learning about [Fabric.js](https://github.com/fabricjs/fabric.js/) 
+- 🌱 I’m currently playing around with [Dall · E 2](https://openai.com/dall-e-2/) 
 - 👱🏻‍♂️ Pronouns: He/Him
